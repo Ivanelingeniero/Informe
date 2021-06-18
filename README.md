@@ -1,0 +1,2 @@
+# Informe
+El informe PUERTAS LOGICAS Y TEORIA DE CIRCUITOS
